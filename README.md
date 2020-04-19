@@ -1,2 +1,0 @@
-# wsdemo1
-Demo
